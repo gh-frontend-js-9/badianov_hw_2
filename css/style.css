@@ -194,6 +194,10 @@ h2 {
 	padding-bottom: 111px;
 }
 
+.skills a {
+	text-decoration: none;
+}
+
 .skills h2 {
 	padding-bottom: 104px;
 }
@@ -270,7 +274,7 @@ h2 {
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
   filter: grayscale(100%);
-  filter: gray; /* IE 6-9 */
+  filter: gray;
 }
 
 .clients h2 {
